@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interprete", "Interprete\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{0BF884A4-F9DA-402A-A92A-34527A9B13D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiColeccion", "MiColeccion\MiColeccion.csproj", "{C3665825-4BD9-447D-B169-6A6D9BE18E72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0BF884A4-F9DA-402A-A92A-34527A9B13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BF884A4-F9DA-402A-A92A-34527A9B13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BF884A4-F9DA-402A-A92A-34527A9B13D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3665825-4BD9-447D-B169-6A6D9BE18E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3665825-4BD9-447D-B169-6A6D9BE18E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3665825-4BD9-447D-B169-6A6D9BE18E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3665825-4BD9-447D-B169-6A6D9BE18E72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
