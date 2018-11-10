@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones", "Colecciones\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprobadoresDeCreditos", "AprobadoresDeCredetos\AprobadoresDeCreditos.csproj", "{C5A29128-CF72-45F0-BF58-87630E9FCDD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Documentos", "Documentos\Documentos.csproj", "{F7EE76B9-8470-46A9-9AD0-B166DF36784D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C5A29128-CF72-45F0-BF58-87630E9FCDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A29128-CF72-45F0-BF58-87630E9FCDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A29128-CF72-45F0-BF58-87630E9FCDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EE76B9-8470-46A9-9AD0-B166DF36784D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EE76B9-8470-46A9-9AD0-B166DF36784D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EE76B9-8470-46A9-9AD0-B166DF36784D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EE76B9-8470-46A9-9AD0-B166DF36784D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
