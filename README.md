@@ -19,3 +19,7 @@
 * Proxy: Un intermediario que habla el mismo lenguaje entre Cliente y Objeto real
 * Double dispatch: ¿Cómo evitar ifs e instanceOf / typeof entre objetos que dependen unos de otros
 
+## Clase 5
+* TBD: xxx
+
+

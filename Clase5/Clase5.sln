@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Referencias", "Referencias\Referencias.csproj", "{2A0FACEF-0264-4894-9114-E3BD2766EA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaDeChat", "SalaDeChat\SalaDeChat.csproj", "{7AFC4A6A-D1A8-49CA-A8BD-93AC49D225B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0FACEF-0264-4894-9114-E3BD2766EA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0FACEF-0264-4894-9114-E3BD2766EA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0FACEF-0264-4894-9114-E3BD2766EA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0FACEF-0264-4894-9114-E3BD2766EA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AFC4A6A-D1A8-49CA-A8BD-93AC49D225B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFC4A6A-D1A8-49CA-A8BD-93AC49D225B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFC4A6A-D1A8-49CA-A8BD-93AC49D225B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFC4A6A-D1A8-49CA-A8BD-93AC49D225B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD1659B-053A-4C66-9AD4-AA27803885EA}
+	EndGlobalSection
+EndGlobal
