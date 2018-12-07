@@ -20,6 +20,11 @@
 * Double dispatch: ¿Cómo evitar ifs e instanceOf / typeof entre objetos que dependen unos de otros
 
 ## Clase 5
-* TBD: xxx
+* Mediator: TBD
+* Prototype: TBD
+
+## Clase 6
+* Observer: Cambian los valores de precio, y necesitamos contar la novedad a los interesados.
+* 
 
 
