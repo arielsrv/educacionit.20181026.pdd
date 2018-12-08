@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasdaq", "Nasdaq\Nasdaq.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyParser", "MyParser\MyParser.csproj", "{B0F847AA-39D8-44DC-A87D-6FA90B9B5E78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicion", "Composicion\Composicion.csproj", "{DBF951EA-2333-4A8F-8C24-3E9E03C772BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B0F847AA-39D8-44DC-A87D-6FA90B9B5E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F847AA-39D8-44DC-A87D-6FA90B9B5E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F847AA-39D8-44DC-A87D-6FA90B9B5E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF951EA-2333-4A8F-8C24-3E9E03C772BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF951EA-2333-4A8F-8C24-3E9E03C772BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF951EA-2333-4A8F-8C24-3E9E03C772BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF951EA-2333-4A8F-8C24-3E9E03C772BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
