@@ -20,11 +20,20 @@
 * Double dispatch: ¿Cómo evitar ifs e instanceOf / typeof entre objetos que dependen unos de otros
 
 ## Clase 5
-* Mediator: TBD
-* Prototype: TBD
+* Mediator: Necesitamos implementar una sala de chat, los participantes no deben conocerse.
+* Prototype: Necesitamos clonar objetos de manera superficial y profunda.
 
 ## Clase 6
 * Observer: Cambian los valores de precio, y necesitamos contar la novedad a los interesados.
-* 
+* Visistor: Necesito implementar una jerarquía de funcionalidades, a distintos tipos de otra. Ej: parseo de XML y Json, Agregar un elemento en XML o en Json.
+* Composite: Necesitamos implementar un árbol de componentes, simples o compuestos.
+
+## Clase 7
+* Decorator:
+* Adapter:
+* State:
+* Interpreter:
+* Flyweight:
+* Memento:
 
 
